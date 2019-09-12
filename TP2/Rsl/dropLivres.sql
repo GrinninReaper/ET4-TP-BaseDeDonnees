@@ -1,0 +1,13 @@
+DROP TABLE tp_sql.urllabo;
+DROP TABLE tp_sql.APourNote;
+DROP TABLE tp_sql.annot;
+DROP TABLE tp_sql.travaille;
+DROP TABLE tp_sql.supportArticle;
+DROP TABLE tp_sql.aecrit;
+DROP TABLE tp_sql.tag;
+DROP TABLE tp_sql.tag;
+DROP TABLE tp_sql.laboratoire;
+DROP TABLE tp_sql.utilisateur;
+DROP TABLE tp_sql.auteur;
+DROP TABLE tp_sql.siteweb;
+DROP TABLE tp_sql.article;
